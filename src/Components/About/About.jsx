@@ -13,7 +13,7 @@ const About = ({setPlayState}) => {
         <div className="about-right">
             <h3>ABOUT UNIVERSITY</h3>
             <h2>Nurturing Tomorrow's leaders Today</h2>
-            <p>Embark on a transformative education journey with our
+            <p>Embark on a transformative educations journey with our
             university's comprehensive education program. our cutting-edge
             curriculum is designed to empower students with the knowledge,
             skills, and experiencess needed to excel in the dynamic field of 
