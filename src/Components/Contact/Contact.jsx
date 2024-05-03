@@ -43,7 +43,7 @@ const Contact = () => {
             university community. </p>
             <ul>
                 <li><img src={mail_icon} alt="" />makadiyavaibhav@GreatStack.dev</li>
-                <li><img src={phone_icon} alt="" />+91 123-456-7890</li>
+                <li><img src={phone_icon} alt="" />+91 9725-506-121</li>
                 <li><img src={location_icon} alt="" />77 massachusetts av,Cambridge<br/> Ma 02139, india</li>
             </ul>
         </div>
